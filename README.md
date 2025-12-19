@@ -24,7 +24,6 @@
           <li>🏰 <strong>Guild:</strong> Universitas Nasional Pasim</li>
           <li>📜 <strong>Quest:</strong> Mastering C++ & Java Fundamentals</li>
         </ul>
-        
         <p align="left">
           <img src="https://img.shields.io/badge/HP-████████████-ff0000?style=flat&labelColor=303030&logo=heart&logoColor=red" alt="HP Bar"><br>
            <img src="https://img.shields.io/badge/MP-████████......-0099ff?style=flat&labelColor=303030&logo=azure&logoColor=cyan" alt="MP Bar"><br>
