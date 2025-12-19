@@ -1,46 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3596F5&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Yuu+Ashura;A+Beginner+Programmer;Computer+Science+Student;Welcome+to+My+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=39FF14&center=true&vCenter=true&width=500&lines=Player:+yuuashura;Status:+Online;Class:+Beginner+Programmer;Loading+profile... " alt="Retro Header" />
 </div>
 
-<h3 align="center">I am a beginner programmer who is currently learning and exploring new technologies.</h3>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>👾 Player Profile</h3>
+        <ul>
+          <li><strong>Codename:</strong> Yuu Ashura</li>
+          <li><strong>Level:</strong> Novice (Learning Phase)</li>
+          <li><strong>Current Quest:</strong> Mastering Fundamental Languages</li>
+          <li><strong>Guild:</strong> Computer Science Student</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+         <h3>🎯 Mission Objective</h3>
+         <p><em>"Saya adalah programmer pemula yang sedang menjelajahi dungeon teknologi, mencari knowledge baru setiap hari."</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
+<h3 align="center">🕹️ Contribution Game</h3>
 <p align="center">
-  <a href="https://instagram.com/yudis.ashura" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://github.com/yuuashura/yuuashura/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+<p align="center"><em>(Ular ini akan memakan kotak kontribusi hijaumu setiap hari!)</em></p>
+
+---
+
+<h3 align="center">⚔️ Arsenal & Inventory (Languages/Tools)</h3>
+
+<p align="center" style="font-weight: bold; color: #39FF14;">[ Primary Weapons ]</p>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" height="35"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="35"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="35"/>
   </a>
 </p>
 
----
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-
+<p align="center" style="font-weight: bold; color: #39FF14;">[ Support Gear ]</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <br>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30"/>
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
 </p>
+
+<br>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
+<h3 align="center">📊 Player Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_MU&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <a href="https://instagram.com/yudis.ashura" target="blank"><img align="center" src="https://img.shields.io/badge/Connect_on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yudis.ashura"/></a>
 </p>
+<h4 align="center">Game Over. Thanks for visiting! 👾</h4>
