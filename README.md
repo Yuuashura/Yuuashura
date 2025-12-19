@@ -12,8 +12,8 @@
         <ul>
           <li><strong>Codename:</strong> Yuu Ashura</li>
           <li><strong>Level:</strong> Novice (Learning Phase)</li>
-          <li><strong>Current Quest:</strong> Mastering Fundamental Languages</li>
-          <li><strong>Guild:</strong> Computer Science Student</li>
+          <li><strong>Current Quest:</strong> Mastering C++, Java & Web</li>
+          <li><strong>Guild:</strong> Universitas Nasional Pasim</li>
         </ul>
       </td>
       <td valign="top" width="50%">
@@ -28,13 +28,13 @@
 
 <h3 align="center">🕹️ Contribution Game</h3>
 <p align="center">
-  <img src="https://github.com/yuuashura/yuuashura/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Yuuashura/Yuuashura/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-<p align="center"><em>(Ular ini akan memakan kotak kontribusi hijaumu setiap hari!)</em></p>
+<p align="center"><em>(Ular ini memakan kotak kontribusi hijaumu!)</em></p>
 
 ---
 
-<h3 align="center">⚔️ Arsenal & Inventory (Languages/Tools)</h3>
+<h3 align="center">⚔️ Arsenal & Inventory</h3>
 
 <p align="center" style="font-weight: bold; color: #39FF14;">[ Primary Weapons ]</p>
 <p align="center">
@@ -49,23 +49,38 @@
   </a>
 </p>
 
-<p align="center" style="font-weight: bold; color: #39FF14;">[ Support Gear ]</p>
+<p align="center" style="font-weight: bold; color: #39FF14;">[ Secondary Gear ]</p>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" height="30"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30"/>
+</p>
+
+<p align="center" style="font-weight: bold; color: #39FF14;">[ Tools & Utils ]</p>
+<p align="center">
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="30"/>
 </p>
 
 <br>
 
 ---
 
-<h3 align="center">📊 Player Stats</h3>
+<h3 align="center">🏆 Achievements Unlocked</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" height="150" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yuuashura&theme=gitdimmed&column=7&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
+  </a>
 </p>
+
+<h3 align="center">🔥 Daily Login Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuuashura&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
 
 <p align="center">
   <a href="https://instagram.com/yudis.ashura" target="blank"><img align="center" src="https://img.shields.io/badge/Connect_on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yudis.ashura"/></a>
