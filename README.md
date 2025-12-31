@@ -20,7 +20,7 @@
       <td valign="top" width="50%">
         <h3 align="left">🏮 Player Attributes</h3>
         <ul align="left">
-          <li><strong>🛡️ Name:</strong> Yudistira Saputra</li>
+          <li><strong>🛡️ Name:</strong> Yudistira Syaputra</li>
           <li><strong>⚡ Class:</strong> Informatics Engineering</li>
           <li><strong>🏰 Guild:</strong> UNAS PASIM Bandung</li>
           <li><strong>📜 Quest:</strong> Mastering Logic & Syntax</li>
@@ -38,7 +38,9 @@
   </table>
 </div>
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<br>
 
 <h3 align="center">⚡ Adventure Log (Weekly Coding Activity)</h3>
 <div align="center">
@@ -53,7 +55,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuuashura&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=FF4D4D" width="100%" />
 </p>
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<br>
 
 <h3 align="center">🎒 Skill Inventory & Arsenal</h3>
 <p align="center">
@@ -69,13 +73,14 @@
   <img src="https://github.com/Yuuashura/Yuuashura/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-  <h3>💾 Save Point (Contact)</h3>
+  <h3>💾 Save Point (Connect)</h3>
   <a href="https://instagram.com/yudis.ashura" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <br><br>
   <p><em>"Every error is a lesson, every commit is a level up."</em></p>
