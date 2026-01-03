@@ -43,7 +43,6 @@
 <br>
 
 <h3 align="center">⚡ Adventure Log (Weekly Coding Activity)</h3>
-[![wakatime](https://wakatime.com/badge/user/Yuuashura.svg)](https://wakatime.com/@Yuuashura)
 <!--START_SECTION:waka-->
 
 ```txt
