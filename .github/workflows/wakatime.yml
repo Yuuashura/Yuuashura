@@ -15,13 +15,21 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: athul/waka-readme@master
+      - name: Update README with WakaTime (summaries)
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # === PENTING ===
+          # summaries endpoint → /users/current/summaries
           TIME_RANGE: last_7_days
+
+          # tampilan
           LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
+          SHOW_TITLE: false
           BLOCKS: ░▒▓█
