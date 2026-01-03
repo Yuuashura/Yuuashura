@@ -45,6 +45,7 @@
 <h3 align="center">⚡ Adventure Log (Weekly Coding Activity)</h3>
 <!--START_SECTION:waka-->
 <div align="center">
+  
 ```txt
 Total Time: 9 hrs 44 mins
 Java              5 hrs 43 mins   ██████████████▓░░░░░░░░░░   58.04 %
