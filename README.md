@@ -44,8 +44,11 @@
 
 <h3 align="center">⚡ Adventure Log (Weekly Coding Activity)</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuuashura&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF4D4D&text_color=ffffff" alt="WakaTime Stats" />
-  <p><em>(Data update otomatis setiap kamu coding di VS Code)</em></p>
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Yuuashura&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF4D4D&text_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuuashura&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF4D4D&text_color=ffffff" 
+         alt="WakaTime Stats" />
+  </a>
+  <p><em>(Data update otomatis setiap kamu coding di editor dan terlihat secara publik di WakaTime)</em></p>
 </div>
 
 <br>
