@@ -45,6 +45,18 @@
 <h3 align="center">⚡ Adventure Log (Weekly Coding Activity)</h3>
 [![wakatime](https://wakatime.com/badge/user/Yuuashura.svg)](https://wakatime.com/@Yuuashura)
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 9 hrs 44 mins
+
+Java              5 hrs 43 mins   ██████████████▓░░░░░░░░░░   58.04 %
+Java Properties   1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
+PHP               32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+XML               23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Blade Template    23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Bash              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center"><em>(Updated automatically from WakaTime)</em></p>
