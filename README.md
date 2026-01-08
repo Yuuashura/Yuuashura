@@ -46,14 +46,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 55 mins
+Total Time: 8 hrs 25 mins
 
-Java              5 hrs 53 mins   ██████████████▓░░░░░░░░░░   58.57 %
-Java Properties   1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
-PHP               32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-XML               23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Blade Template    23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Bash              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Java              5 hrs 38 mins   ████████████████▓░░░░░░░░   66.07 %
+Java Properties   1 hr 28 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+XML               23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Bash              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Text              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JavaScript        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
