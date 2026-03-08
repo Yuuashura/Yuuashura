@@ -46,13 +46,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 42 mins
+Total Time: 4 hrs 34 mins
 
-Java              2 hrs 29 mins         ███████████░░░░░░░░░░░░░░   43.65 %
-JavaScript        1 hr 25 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
-CSS               55 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-Java Properties   34 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-XML               17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Java              1 hr 43 mins          █████████▒░░░░░░░░░░░░░░░   37.80 %
+JavaScript        1 hr 25 mins          ███████▓░░░░░░░░░░░░░░░░░   31.11 %
+CSS               55 mins               █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+Java Properties   18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+XML               11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 Git Config        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
