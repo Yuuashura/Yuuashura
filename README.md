@@ -46,12 +46,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 49 mins
+Total Time: 4 hrs 41 mins
 
-Java              5 hrs 28 mins         ███████████████████████▓░   94.16 %
-Java Properties   9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Markdown          9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-XML               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Java              4 hrs 24 mins         ███████████████████████▒░   93.92 %
+Markdown          9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Java Properties   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+XML               2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 Batchfile         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
