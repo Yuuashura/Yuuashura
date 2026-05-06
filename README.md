@@ -46,14 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 38 mins
+Total Time: 22 mins
 
-Java              2 hrs                 ██████████▓░░░░░░░░░░░░░░   43.14 %
-TypeScript        1 hr 49 mins          █████████▓░░░░░░░░░░░░░░░   39.25 %
-XML               19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Bash              12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Java Properties   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Prisma            3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+TypeScript   16 mins               █████████████████▓░░░░░░░   71.15 %
+Bash         6 mins                ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
