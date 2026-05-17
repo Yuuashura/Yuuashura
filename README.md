@@ -46,9 +46,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 mins
 
-No activity tracked
+Java         2 mins                ████████████████████░░░░░   79.74 %
+Other        0 secs                ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
+Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Batchfile    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
