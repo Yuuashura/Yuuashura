@@ -25,10 +25,10 @@ jobs:
 
           # === PENTING ===
           # summaries endpoint → /users/current/summaries
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
 
           # tampilan
-          LANG_COUNT: 6
+          LANG_COUNT: 8
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_TITLE: false
