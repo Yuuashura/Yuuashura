@@ -46,16 +46,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 135 hrs 15 mins
+Total Time: 140 hrs 25 mins
 
-Java              48 hrs 28 mins        █████████░░░░░░░░░░░░░░░░   35.50 %
-JavaScript        26 hrs                ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-TypeScript        13 hrs 56 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-C                 13 hrs 55 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Java Properties   6 hrs 56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-CSS               3 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Markdown          3 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-XML               2 hrs 48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Java              49 hrs 23 mins        ████████▓░░░░░░░░░░░░░░░░   34.76 %
+JavaScript        27 hrs 12 mins        ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+TypeScript        13 hrs 56 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+C                 13 hrs 55 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+Java Properties   8 hrs 1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+CSS               3 hrs 50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Bash              3 hrs 19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Markdown          3 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
