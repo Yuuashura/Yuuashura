@@ -46,16 +46,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 260 hrs 19 mins
+Total Time: 262 hrs 7 mins
 
-Java                       69 hrs 43 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
-TypeScript                 45 hrs 41 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
-JavaScript                 39 hrs 53 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-C                          13 hrs 55 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Python                     13 hrs 23 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Markdown                   9 hrs 19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-JSON                       8 hrs 30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Java Properties            8 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Java                       69 hrs 43 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+TypeScript                 45 hrs 41 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+JavaScript                 39 hrs 53 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Python                     14 hrs 8 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+C                          13 hrs 55 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Markdown                   9 hrs 43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+JSON                       9 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Java Properties            8 hrs 25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
